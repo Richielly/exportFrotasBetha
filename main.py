@@ -72,4 +72,4 @@ progress_bar = window['progressbar']
 
 start()
 
-# pyinstaller --name export_frotas_elotech --onefile --noconsole main.py
+# pyinstaller --name export_frotas_betha --onefile --noconsole main.py
